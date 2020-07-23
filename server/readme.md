@@ -1,4 +1,4 @@
-# MEAN Base app
+# MEAN Base app Definitely need your help.
 
 Based on https://github.com/pshort/node-angular-boilerplate
 
